@@ -1,0 +1,15 @@
+{
+  "name": "02-Even-First-KunXX",
+  "version": "1.0.0",
+  "description": "Complete the function `evenFirst` which takes in one argument, a queue. Change the given queue such that **all even numbers** comes before the odd numbers. The odd and even numbers should retain their relative order. See sample runs below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
